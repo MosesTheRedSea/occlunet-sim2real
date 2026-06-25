@@ -1,4 +1,4 @@
-# occulnet-sim2real
+# damp-sim2real
 
 > Developed at the Institute of Science Tokyo, Japan
 >
